@@ -4,3 +4,4 @@
 * You can get an idea of temperature, pressure, and humidity displayed as chart (Used Sparkline package of react)
 * Shows a Google Map window of the city to let user get a more interactive feel to it
 
+![screen shot 2017-10-28 at 9 57 30 pm](https://user-images.githubusercontent.com/20274213/32140311-7372eb3c-bc33-11e7-9032-efcd4034f7ad.png)
