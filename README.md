@@ -1,25 +1,6 @@
-# ReduxSimpleStarter
+## Weather Forecast Website
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+* This web app allows you to get weather forecast for 5 days of the city you specified. (Made Ajax requests with Axios(return a promise), applied React-Promise as middleware(gate-keeper) to handle the promise returned from action creator and send resolved action to reducers, and the API used is OpenWeatherMap)
+* You can get an idea of temperature, pressure, and humidity displayed as chart (Used Sparkline package of react)
+* Shows a Google Map window of the city to let user get a more interactive feel to it
 
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
